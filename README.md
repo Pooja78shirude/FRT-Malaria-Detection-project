@@ -1,0 +1,1 @@
+# FRT-Malaria-Detection-project
